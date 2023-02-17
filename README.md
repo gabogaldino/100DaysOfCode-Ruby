@@ -1,4 +1,6 @@
-# 100DaysOfCode-with-Ruby
+![CAPA](/SOURCES/CAPA.png)
+# 100DaysOfCode com Ruby
+
 
 Olá, pessoal!
 
